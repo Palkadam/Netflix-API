@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "640c0c3b974c223c73786aa1"
+  },
+  "name": "akshay kumar",
+  "about": "akshay",
+  "image": "virat_1678511163463.png",
+  "created_At": {
+    "$date": {
+      "$numberLong": "1678511018872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640c0c9b974c223c73786aa3"
+  },
+  "name": "paresh rawal",
+  "about": "paresh rawal",
+  "image": "dhawan_1678511259359.png",
+  "created_At": {
+    "$date": {
+      "$numberLong": "1678511018872"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640c0cc8974c223c73786aa5"
+  },
+  "name": "sunil shetty",
+  "about": "sunil shetty",
+  "image": "sodhi_1678511304236.png",
+  "created_At": {
+    "$date": {
+      "$numberLong": "1678511018872"
+    }
+  },
+  "__v": 0
+}]

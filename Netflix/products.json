@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "640c0d87118382669240e8f4"
+  },
+  "name": "fir hera feri",
+  "categoryID": {
+    "$oid": "640c03f1b676b8babbdb7ea0"
+  },
+  "SubCategoryID": {
+    "$oid": "640c062db676b8babbdb7ea9"
+  },
+  "image": "img3_1678511495717.jpg",
+  "description": "hera feri is the most funniest movie",
+  "releaseDate": {
+    "$date": {
+      "$numberLong": "1266690600000"
+    }
+  },
+  "duration": 3000,
+  "rating": 4.9,
+  "cast": [
+    {
+      "$oid": "640c0c3b974c223c73786aa1"
+    },
+    {
+      "$oid": "640c0c9b974c223c73786aa3"
+    },
+    {
+      "$oid": "640c0cc8974c223c73786aa5"
+    }
+  ],
+  "created_At": {
+    "$date": {
+      "$numberLong": "1678511446746"
+    }
+  },
+  "__v": 0
+}]

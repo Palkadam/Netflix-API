@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "640c03f1b676b8babbdb7ea0"
+  },
+  "name": "movies",
+  "description": "movies",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640c0405b676b8babbdb7ea2"
+  },
+  "name": "series",
+  "description": "series",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "640c0421b676b8babbdb7ea4"
+  },
+  "name": "tv shows",
+  "description": "tv serials",
+  "__v": 0
+}]

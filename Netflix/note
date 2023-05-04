@@ -1,0 +1,10 @@
+// http://localhost:8001/casts/add-cast
+// http://localhost:8001/category/add-category
+// http://localhost:8001/products/add-product
+// http://localhost:8001/products/add-product
+
+// http://localhost:8001/subcategory/get-subcategory
+// http://localhost:8001/subcategory/add-subcategory
+// http://localhost:8001/subcategory/update-subcategory
+
+// http://localhost:8001/users/get-user

@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "640c15ce033dd1dbad9193bf"
+  },
+  "name": "rohit",
+  "image": "person-21678513614374.jpg",
+  "age": 23,
+  "email": "rk@gmail.com",
+  "password": "$2b$10$k9zxscix7pDc.Nc9h2gtQ.XJm4Hz/pBq.9u1r/e0ga5LhGaACA1US",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1678513016672"
+    }
+  },
+  "__v": 0
+}]

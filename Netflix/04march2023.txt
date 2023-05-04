@@ -1,0 +1,75 @@
+bcript
+
+npm i bcript
+
+import bcrypt from 'bcrypt'
+
+//covert password into hash
+const hashPass = await bcrypt.hash(password, 10)
+                .then((hash) => {
+                    return hash;
+                });
+
+//match password
+const match = await bcrypt.compare(password, isExist.password);
+
+
+
+TASK
+> difference between and authentication and authorisation
+
+
+category
+    movie
+        
+    webseries
+        > sub-category
+            > animated 
+            > sciece 
+            > fiction
+            > action
+            > comedy
+            > thriller
+
+
+category
+subcategory
+name
+duration
+realese-date
+
+
+//--------------------------------------------------------//
+//                          MODELS                        //
+//--------------------------------------------------------//
+https://netflix-clone-ebon-nu.vercel.app/
+
+1. Category
+    - name (Movie, Series)
+    - description 
+    
+2. Sub Category
+    - name (Horror, Action, Drama ...)
+    - description
+    - image 
+
+3. Product 
+    - CategoryID
+    - SubCategoryID
+    - name
+    - image
+    - description,
+    - releaseDate
+    - duration
+    - rating
+    - cast:[cast1, cast2, cast3, cast4, cast5]
+
+
+director
+writers
+
+
+4. cast (Actor)
+    - name 
+    - about
+    - image
